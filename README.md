@@ -1,5 +1,5 @@
 # ED FOTOGRAFIAS
-Um site de serviços fotográficos 
+Um web site responsivo de serviços fotográficos 
 
 ## 🛠 Tecnologias utilizadas
  - HTML
